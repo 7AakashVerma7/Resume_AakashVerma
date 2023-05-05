@@ -1,0 +1,17 @@
+body{
+	background-image: url('https://wallpapercrafter.com/sizes/3840x2160/57382-anonymus-hacker-computer-4k-hd-hoodie.jpg');
+	background-size: cover;
+	background-position: center;
+	backdrop-filter: blur(8px);
+}
+.search-bar input{
+	background: transparent;
+	flex: 1;
+	border: 0;
+	outline: none;
+	padding: 24px 20px;
+	font-size: 20px;
+	color: #cac7ff;
+	align-items: center;
+	backdrop-filter: blur(4px);
+	font: white;
